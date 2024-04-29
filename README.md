@@ -1,13 +1,20 @@
 # ExtremeXP Game Distribution System
 
-Welcome to the ExtremeXP Game Distribution System, a course project developed for CSCI 3060U – Winter 2024. This project is an implementation of a Digital Distribution Service for Games, adhering to the principles of Extreme Programming (XP) philosophy.
+Welcome to the ExtremeXP Game Distribution System. This project is to create a point-of-purchase terminal for simulating a game distribution system. It will contain two parts: the frontend and the backend. It will also be automated and tested using scripts and batch files.
 
 ## Project Overview
 
 The system comprises two integral parts:
 
 1. **Front End (C++)**
-   - A robust point-of-purchase terminal for buying and selling games.
+   - A robust point-of-purchase terminal for:
+      - creating and deleting accounts.
+      - buying and selling games.
+      - adding and refunding credit.
+      - logging and logginig out of sessions.
+      - listing all available games and profiles (based on user level)
+      - searching for users/games (based on user level)
+   - Testing Scripts
    - Written in C++.
    
 2. **Back End (Python/Java)**
