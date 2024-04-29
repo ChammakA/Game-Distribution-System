@@ -1,0 +1,2 @@
+Enter command: Transaction failed: Please login before submitting transactions
+Enter command: 

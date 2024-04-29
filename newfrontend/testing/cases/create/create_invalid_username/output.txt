@@ -1,0 +1,3 @@
+Enter command: Please enter your username: Welcome, admin1.
+Enter command: Enter username: Error: Username exceeds 15 characters.
+Enter command: Logout successful.

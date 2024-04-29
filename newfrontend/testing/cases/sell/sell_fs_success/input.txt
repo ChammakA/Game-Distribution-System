@@ -1,0 +1,7 @@
+./distribution-system.exe current_user_accounts.txt available_games.txt game_collection.txt dtf_test_sell_fs_success.txt
+Login
+fullstandard
+sell
+fssamplegame
+10
+logout

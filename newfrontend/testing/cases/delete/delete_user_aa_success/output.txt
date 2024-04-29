@@ -1,0 +1,3 @@
+Enter command: Please enter your username: Welcome, admin1.
+Enter command: Enter username: Transaction complete: fullstandard successfully deleted.
+Enter command: Logout successful.

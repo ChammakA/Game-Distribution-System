@@ -1,0 +1,6 @@
+./distribution-system.exe current_user_accounts.txt available_games.txt game_collection.txt dtf_test_addcredit_ss_negative_credit_fail.txt
+login
+ssuser01
+addcredit
+-200
+logout

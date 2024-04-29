@@ -1,0 +1,5 @@
+Please enter your username:
+Welcome, ssuser01.
+Enter credit amount:
+Error: An invalid credit amount was entered.
+Logout successful.

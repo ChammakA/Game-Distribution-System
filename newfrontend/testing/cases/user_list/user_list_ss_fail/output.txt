@@ -1,0 +1,3 @@
+Enter command: Please enter your username: Welcome, 
+Enter command: What would you like to list (games, users): Unauthorized transaction: Only admin accounts are eligible to list users.
+Enter command: Logout successful.

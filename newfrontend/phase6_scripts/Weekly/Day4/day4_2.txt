@@ -1,0 +1,10 @@
+./distribution-system.exe current_user_accounts.txt available_games.txt game_collection.txt day4_2.txt
+login
+admin1
+create
+newuserbs
+BS
+0
+delete
+fsuser01
+logout

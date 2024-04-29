@@ -1,0 +1,5 @@
+Please enter your username:
+Welcome, fsuser02.
+Enter credit amount:
+Credit added successfully.
+Logout successful.

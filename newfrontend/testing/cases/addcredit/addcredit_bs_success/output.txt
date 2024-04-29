@@ -1,0 +1,5 @@
+Please enter your username:
+Welcome, bsuser01.
+Enter credit amount:
+Credit added successfully.
+Logout successful.

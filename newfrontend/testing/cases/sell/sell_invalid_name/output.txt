@@ -1,0 +1,3 @@
+Please enter your username:
+Name of game for sale:
+Game name exceeds 25 characters in length. Please type a shorter name

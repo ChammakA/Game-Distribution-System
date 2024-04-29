@@ -1,0 +1,3 @@
+Please enter your username:
+Welcome, buystandard.
+Error: Unauthorized. Only admin users can create accounts.

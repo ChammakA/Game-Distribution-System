@@ -1,0 +1,2 @@
+Enter command: Please enter your username: Welcome, admin1.
+Enter command: Enter username: Enter command: Logout successful.

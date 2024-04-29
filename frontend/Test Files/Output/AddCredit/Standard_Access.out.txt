@@ -1,0 +1,14 @@
+Welcome to GameFlow!
+Please enter Login Command:
+Login command accepted.
+Please enter a valid username:
+Welcome, Buy Standard User: BuyStandard
+Your current credit balance is: 100
+Please enter a valid command. (Options: Logout, Buy, AddCredit, List)
+AddCredit command accepted. (Type Cancel to terminate the process)
+Enter the amount of credit to add:
+100 credit(s) added to your account.
+Your current credit balance is: 200
+Please enter a valid command. (Options: Logout, Buy, AddCredit, List)
+Logout command accepted.
+Logging Out...

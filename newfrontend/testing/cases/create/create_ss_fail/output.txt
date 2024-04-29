@@ -1,0 +1,3 @@
+Enter command: Please enter your username: Welcome, sellstandard.
+Enter command: Error: Unauthorized. Only admin or account manager users can create accounts.
+Enter command: Logout successful.

@@ -1,0 +1,4 @@
+Please enter your username:
+Welcome, buystandard
+Unauthorized transaction: Buy-standard accounts are ineligble to put games up for sale.
+Goodbye!

@@ -1,0 +1,6 @@
+./distribution-system.exe current_user_accounts.txt invalid_available_games.txt game_collection.txt dtf_test_game_list_aa_does_not_exist_fail.txt
+Login
+admin1
+List
+Games
+Logout

@@ -1,0 +1,6 @@
+Please enter your username:
+Welcome, admin1.
+Enter username:
+Enter user type (AA, FS, BS, SS, AM):
+Enter credit amount:
+User has been successfully created

@@ -1,0 +1,5 @@
+Please enter your username: 
+Welcome, admin1.
+Enter username to add credit to: 
+Error: Username was not found.
+Logout successful.

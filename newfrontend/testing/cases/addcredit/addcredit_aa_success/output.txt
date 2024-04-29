@@ -1,0 +1,6 @@
+Please enter your username:
+Welcome, admin1.
+Enter username to add credit to:
+Enter credit amount: 
+Credit added successfully.
+Logout successful.

@@ -1,0 +1,8 @@
+./distribution-system.exe current_user_accounts.txt available_games.txt game_collection.txt dtf_test_create_max_credit_exceeded.txt
+login
+admin1
+create
+newuser
+BS
+1000000
+logout

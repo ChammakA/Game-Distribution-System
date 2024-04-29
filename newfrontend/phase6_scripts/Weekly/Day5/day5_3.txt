@@ -1,0 +1,6 @@
+./distribution-system.exe current_user_accounts.txt available_games.txt game_collection.txt day5_3.txt
+login
+fsuser02
+addcredit
+9000
+logout

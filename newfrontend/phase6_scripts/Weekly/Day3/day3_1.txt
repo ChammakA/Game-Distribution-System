@@ -1,0 +1,6 @@
+./distribution-system.exe current_user_accounts.txt available_games.txt game_collection.txt day3_1.txt
+Login
+admin1
+Buy
+Minecraft
+logout

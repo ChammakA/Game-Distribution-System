@@ -1,0 +1,4 @@
+Please enter your username:
+Welcome, buystandard.
+Name of game to buy:
+Game purchased, happy gaming!

@@ -1,0 +1,6 @@
+./distribution-system.exe current_user_accounts.txt available_games.txt game_collection.txt dtf_test_addcredit_aa_username_not_found_fail.txt
+login
+admin1
+addcredit
+madeupuser
+logout

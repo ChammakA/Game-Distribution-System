@@ -1,0 +1,5 @@
+Please enter your username:
+Welcome, sellstandard
+Name of game for sale:
+Sale price:
+Thank you, your game has been listed for sale!

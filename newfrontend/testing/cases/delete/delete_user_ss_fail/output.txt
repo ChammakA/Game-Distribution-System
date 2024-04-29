@@ -1,0 +1,4 @@
+Enter command: Please enter your username: Welcome, ssuser01.
+Enter command: Transaction failed: Only admin or account manager users can delete another user
+Enter command: Invalid transaction code. Please try again.
+Enter command: Logout successful.

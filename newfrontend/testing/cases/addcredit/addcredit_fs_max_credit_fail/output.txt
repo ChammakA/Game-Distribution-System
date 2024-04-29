@@ -1,0 +1,5 @@
+Please enter your username:
+Welcome, fsuser01.
+Enter credit amount:
+Error: Credit amount exceeds your session limit.
+Logout successful.

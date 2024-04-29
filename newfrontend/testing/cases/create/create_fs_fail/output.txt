@@ -1,0 +1,3 @@
+Please enter your username:
+Welcome, fullstandard.
+Error: Unauthorized. Only admin users can create accounts.

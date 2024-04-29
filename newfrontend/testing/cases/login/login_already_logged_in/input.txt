@@ -1,0 +1,5 @@
+./distribution-system.exe current_user_accounts.txt available_games.txt game_collection.txt dtf_test_login_already_logged_in.txt
+login
+admin1
+login
+logout

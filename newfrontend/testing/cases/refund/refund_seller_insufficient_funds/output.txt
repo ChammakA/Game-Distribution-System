@@ -1,0 +1,6 @@
+Please enter your username:
+Welcome, admin1
+Enter the buyer's username:
+Enter the seller's username:
+Enter the refund amount:
+Error: Seller does not have enough credit to refund.

@@ -1,0 +1,8 @@
+./distribution-system.exe current_user_accounts.txt available_games.txt game_collection.txt dtf_test_refund_seller_insufficient_funds.txt
+Login
+admin1
+Refund
+buystandard
+sellstandard
+900
+logout

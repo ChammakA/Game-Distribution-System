@@ -1,0 +1,6 @@
+Please enter your username:
+Welcome, admin1.
+Enter username to add credit to:
+Enter credit amount:
+Error: An invalid credit amount was entered.
+Logout successful.

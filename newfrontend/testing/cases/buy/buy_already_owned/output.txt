@@ -1,0 +1,4 @@
+Please enter your username:
+Welcome, buystandard.
+Name of game to buy:
+Error: Game already owned.

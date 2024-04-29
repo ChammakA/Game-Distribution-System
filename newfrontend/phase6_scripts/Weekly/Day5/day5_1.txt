@@ -1,0 +1,10 @@
+./distribution-system.exe current_user_accounts.txt available_games.txt game_collection.txt day5_1.txt
+Login
+fullstandard
+sell
+fssamplegame
+10
+sell
+fssamplegame2
+10
+logout

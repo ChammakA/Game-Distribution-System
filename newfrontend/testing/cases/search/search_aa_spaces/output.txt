@@ -1,0 +1,18 @@
+Enter command: Please enter your username: Welcome, admin1.
+Enter command: Enter the search query: Users: 
+fullusermaxed
+buyusermaxed
+sellusermaxed
+zzzzzzzz
+
+Games: 
+Apex_Legends
+Rainbow_Six_Siege
+Horizon_Zero_Dawn
+Zelda
+Xenoblade
+Yakuza
+expensivegame
+MilkZans
+
+Enter command: Logout successful.

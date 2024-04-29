@@ -1,0 +1,6 @@
+./distribution-system.exe current_user_accounts.txt available_games.txt game_collection.txt dtf_test_buy_bs_success.txt
+Login
+buystandard
+Buy
+Nier
+logout

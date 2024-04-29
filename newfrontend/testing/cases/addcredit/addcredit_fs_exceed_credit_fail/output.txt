@@ -1,0 +1,5 @@
+Please enter your username:
+Welcome, fullusermaxed.
+Enter credit amount:
+Error: Credit amount exceeds your account limit.
+Logout successful.

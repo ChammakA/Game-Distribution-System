@@ -1,0 +1,41 @@
+Welcome to GameFlow!
+Please enter Login Command:
+Login command accepted.
+Please enter a valid username:
+Welcome, Admin User: Admin
+Your current credit balance is: 0
+Please enter a valid command. (Options: Logout, Create, Delete, Buy, Sell, AddCredit, Refund, List, Profiles)
+Profiles command accepted.
+List of Current Users: 
+-------------------
+User: SellStandard
+Type: Sell Standard
+Credits: 100
+
+User: Admin
+Type: Admin
+Credits: 0
+
+User: Admin2
+Type: Admin
+Credits: 100
+
+User: Seller2
+Type: Sell Standard
+Credits: 100
+
+User: BuyStandard
+Type: Buy Standard
+Credits: 100
+
+User: FullStandard
+Type: Full Standard
+Credits: 100
+
+User: Full2
+Type: Full Standard
+Credits: 100
+
+Please enter a valid command. (Options: Logout, Create, Delete, Buy, Sell, AddCredit, Refund, List, Profiles)
+Logout command accepted.
+Logging Out...

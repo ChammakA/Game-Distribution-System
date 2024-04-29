@@ -1,0 +1,3 @@
+Enter command: Please enter your username: Welcome, admin1.
+Enter command: Enter username: Transaction failed: You cannot delete your own account
+Enter command: Logout successful.

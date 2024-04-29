@@ -1,0 +1,3 @@
+Please enter your username:
+Welcome, sellstandard.
+Unauthorized transaction: Sell-standard accounts are ineligble to purchase games.

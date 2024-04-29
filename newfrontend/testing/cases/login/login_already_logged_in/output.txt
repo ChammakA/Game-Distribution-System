@@ -1,0 +1,4 @@
+Please enter your username:
+Welcome, admin1
+User already logged in!
+Goodbye!

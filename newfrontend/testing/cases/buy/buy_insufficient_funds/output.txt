@@ -1,0 +1,4 @@
+Please enter your username:
+Welcome, lowcredituser.
+Name of game to buy:
+Error: Insufficient credits.

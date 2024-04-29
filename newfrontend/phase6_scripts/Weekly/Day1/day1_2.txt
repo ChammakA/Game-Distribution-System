@@ -1,0 +1,6 @@
+./distribution-system.exe current_user_accounts.txt available_games.txt game_collection.txt day1_2.txt
+login
+admin1
+List
+Games
+Logout

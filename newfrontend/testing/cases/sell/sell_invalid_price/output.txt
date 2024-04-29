@@ -1,0 +1,4 @@
+Please enter your username:
+Name of game for sale:
+Sale price:
+Error: Game price cannot exceed $999.99.

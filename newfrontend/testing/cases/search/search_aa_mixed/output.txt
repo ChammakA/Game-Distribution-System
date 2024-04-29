@@ -1,0 +1,32 @@
+Enter command: Please enter your username: Welcome, admin1.
+Enter command: Enter the search query: Users: 
+fsuser01
+fsuser01
+fsuser10
+fsuser11
+fsuser13
+fsuser14
+bsuser01
+bsuser10
+bsuser11
+bsuser12
+bsuser13
+bsuser14
+ssuser01
+ssuser10
+ssuser11
+ssuser12
+ssuser13
+ssuser14
+admin1
+zzzzzzzz
+
+Games: 
+FIFA_21
+NBA_2K21
+Horizon_Zero_Dawn
+Zelda
+Yakuza
+MilkZans
+
+Enter command: Logout successful.

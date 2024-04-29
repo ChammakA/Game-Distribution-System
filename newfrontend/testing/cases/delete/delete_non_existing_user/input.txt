@@ -1,0 +1,7 @@
+./distribution-system.exe current_user_accounts.txt available_games.txt game_collection.txt dtf_test_delete_non_existing_user.txt
+login
+admin1
+delete
+nonuser
+logout
+exit

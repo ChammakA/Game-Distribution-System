@@ -1,0 +1,3 @@
+Please enter your username:
+Welcome, admin1.
+Invalid transaction code. Please try again.

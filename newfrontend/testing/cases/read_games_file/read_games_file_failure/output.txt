@@ -1,0 +1,1 @@
+Error: Unable to open available games file ./storage/invalid_available_games.txt

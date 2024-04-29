@@ -1,0 +1,3 @@
+Enter command: Please enter your username: Welcome, 
+Enter command: What would you like to list (games, users): List of users
+Enter command: Logout successful.

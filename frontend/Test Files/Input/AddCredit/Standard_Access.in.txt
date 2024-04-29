@@ -1,0 +1,5 @@
+Login
+BuyStandard
+AddCredit
+100
+Logout

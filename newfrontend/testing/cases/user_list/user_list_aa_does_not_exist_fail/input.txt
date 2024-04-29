@@ -1,0 +1,6 @@
+./distribution-system.exe invalid_user_accounts.txt available_games.txt game_collection.txt 
+login
+admin1
+list
+users
+exit

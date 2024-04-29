@@ -1,0 +1,11 @@
+Enter command: Please enter your username: Welcome, billybob.
+Enter command: Enter the search query: Users: 
+zzzzzzzz
+
+Games: 
+Horizon_Zero_Dawn
+Zelda
+Yakuza
+MilkZans
+
+Enter command: Logout successful.

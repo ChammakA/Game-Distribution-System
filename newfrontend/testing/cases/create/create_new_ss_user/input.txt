@@ -1,0 +1,8 @@
+./distribution-system.exe current_user_accounts.txt available_games.txt game_collection.txt dtf_test_create_new_ss_user.txt
+login
+admin1
+create
+newuserss
+SS
+10
+logout

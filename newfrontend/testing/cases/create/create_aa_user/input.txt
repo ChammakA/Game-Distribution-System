@@ -1,0 +1,8 @@
+./distribution-system.exe current_user_accounts.txt available_games.txt game_collection.txt dtf_test_create_aa_user.txt
+login
+admin1
+create
+newuseraa
+AA
+100
+logout

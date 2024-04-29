@@ -1,0 +1,4 @@
+Please enter your username:
+Welcome, sellstandard
+Name of game for sale:
+Error: Game name already exists in the system.
